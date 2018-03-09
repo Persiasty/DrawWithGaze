@@ -1,0 +1,2 @@
+C:\Users\aoszo\Documents\GitHub\DrawWithGaze\DrawWithGaze\App\DrawWithGaze\DrawWithGaze.csproj;x86
+C:\Users\aoszo\Documents\GitHub\DrawWithGaze\DrawWithGaze\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86

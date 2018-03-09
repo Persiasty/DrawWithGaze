@@ -82,7 +82,7 @@ public class DrawWithGaze : MonoBehaviour, IInputHandler
         if (inputDown)
         {
             cameraTransform = CameraCache.Main.transform;
-            placementPosition = GetPlacementPosition(cameraTransform.position, cameraTransform.forward, DefaultGazeDistance);
+            placementPosition = GetGazePlacementPosition(cameraTransform.position, cameraTransform.forward, DefaultGazeDistance);
             Ray gazeRay = Camera.main.ScreenPointToRay(placementPosition);
             float rayDistance;
             if (objPlane.Raycast(gazeRay, out rayDistance))
