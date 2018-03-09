@@ -14,6 +14,7 @@ public class DrawWithGaze : MonoBehaviour, IInputHandler
     public float DefaultGazeDistance = 2.0f;
     bool inputDown=false;
     private Plane objPlane;
+    [SerializeField] private GameObject _objectToInstantane;
     private Vector3 placementPosition;
     private Transform cameraTransform;
 
@@ -72,6 +73,8 @@ public class DrawWithGaze : MonoBehaviour, IInputHandler
     // Use this for initialization
     void Start () {
         currentInputSource = GetComponent<IInputSource>();
+        
+        InputManager.Instance.AddGlobalListener(gameObject);
 	}
 	
 	// Update is called once per frame
@@ -84,6 +87,7 @@ public class DrawWithGaze : MonoBehaviour, IInputHandler
             float rayDistance;
             if (objPlane.Raycast(gazeRay, out rayDistance))
                 placementPosition = gazeRay.GetPoint(rayDistance);
+            Instantiate(_objectToInstantane, placementPosition, Quaternion.identity);
         }
 
     }

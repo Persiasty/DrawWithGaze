@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b5ae864-8883-453f-8fde-419c2cf91627" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DrawWithGaze.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/DrawWithGaze.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="89" column="79" lean-forward="false" selection-start-line="89" selection-start-column="79" selection-end-line="89" selection-end-column="79" />
+              <folding>
+                <marker date="1520606339726" expanded="false" signature="6:247" ph="..." />
+                <marker date="1520606339726" expanded="true" signature="305:3532" ph="{...}" />
+                <marker date="1520606339726" expanded="true" signature="692:991" ph="{...}" />
+                <marker date="1520606339726" expanded="true" signature="1044:1083" ph="{...}" />
+                <marker date="1520606339726" expanded="true" signature="1203:1465" ph="{...}" />
+                <marker date="1520606339726" expanded="true" signature="1314:1368" ph="{...}" />
+                <marker date="1520606339726" expanded="true" signature="1577:1969" ph="{...}" />
+                <marker date="1520606339726" expanded="true" signature="1635:1899" ph="{...}" />
+                <marker date="1520606339726" expanded="true" signature="1791:1889" ph="{...}" />
+                <marker date="1520606339726" expanded="true" signature="1975:2406" ph="/// Get placement position either from GazeManager hit or in front of the user as backup ... " />
+                <marker date="1520606339726" expanded="true" signature="2530:2734" ph="{...}" />
+                <marker date="1520606339726" expanded="true" signature="2588:2661" ph="{...}" />
+                <marker date="1520606339726" expanded="true" signature="2788:2921" ph="{...}" />
+                <marker date="1520606339726" expanded="true" signature="2976:3530" ph="{...}" />
+                <marker date="1520606339726" expanded="true" signature="3000:3523" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Quaternion.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5069D0F-5255-404A-B894-92335D2E1F59/79/bec0cdbf/Quaternion.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/HoloToolkit/SpatialMapping/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpatialMappingManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/HoloToolkit/SpatialMapping/Scripts/SpatialMappingManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+              <folding>
+                <marker date="1520605781968" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+                <marker date="1520605781968" expanded="false" signature="160:258" ph="..." />
+                <marker date="1520605781968" expanded="true" signature="302:10993" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="309:670" ph="/// The SpatialMappingManager class allows applications to use a SurfaceObserver or a stored  ... " />
+                <marker date="1520605781968" expanded="true" signature="807:10991" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="1539:1654" ph="/// Used for gathering real-time Spatial Mapping data on the HoloLens. ... " />
+                <marker date="1520605781968" expanded="true" signature="1720:1806" ph="/// Time when StartObserver() was called. ... " />
+                <marker date="1520605781968" expanded="true" signature="1869:1944" ph="/// SurfaceMappingObserver GET ... " />
+                <marker date="1520605781968" expanded="true" signature="2044:2136" ph="/// The current source of spatial mapping data. ... " />
+                <marker date="1520605781968" expanded="true" signature="2179:2786" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="2249:2776" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="2300:2762" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="2592:2744" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="2841:2932" ph="/// Occurs when &lt;see cref=&quot;Source&quot; /&gt; changes. ... " />
+                <marker date="1520605781968" expanded="true" signature="3128:3294" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="3359:3475" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="3404:3465" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="3485:3566" ph="/// Returns the layer as a bit mask. ... " />
+                <marker date="1520605781968" expanded="true" signature="3595:3663" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="3673:3766" ph="/// The material to use when rendering surfaces. ... " />
+                <marker date="1520605781968" expanded="true" signature="3806:4138" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="3832:3900" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="3916:4128" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="3976:4114" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="4148:4267" ph="/// Specifies whether or not the SpatialMapping meshes are to be rendered. ... " />
+                <marker date="1520605781968" expanded="true" signature="4304:4637" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="4330:4399" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="4415:4627" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="4476:4613" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="4647:4764" ph="/// Specifies whether or not the SpatialMapping meshes can cast shadows. ... " />
+                <marker date="1520605781968" expanded="true" signature="4796:5110" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="4822:4886" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="4902:5100" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="4958:5086" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="5120:5331" ph="/// Sets the source of surface information. ... " />
+                <marker date="1520605781968" expanded="true" signature="5411:5488" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="5498:5676" ph="/// Sets the material used by all Spatial Mapping meshes. ... " />
+                <marker date="1520605781968" expanded="true" signature="5744:6163" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="5838:6153" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="5935:6139" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="6001:6121" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="6173:6351" ph="/// Checks to see if the SurfaceObserver is currently running. ... " />
+                <marker date="1520605781968" expanded="true" signature="6391:6487" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="6497:6618" ph="/// Instructs the SurfaceObserver to start updating the SpatialMapping mesh. ... " />
+                <marker date="1520605781968" expanded="true" signature="6654:7102" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="6967:7092" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="7112:7232" ph="/// Instructs the SurfaceObserver to stop updating the SpatialMapping mesh. ... " />
+                <marker date="1520605781968" expanded="true" signature="7267:7666" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="7579:7656" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="7676:7786" ph="/// Instructs the SurfaceObserver to stop and cleanup all meshes. ... " />
+                <marker date="1520605781968" expanded="true" signature="7824:7891" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="7901:8137" ph="/// Gets all meshes that are associated with the SpatialMapping mesh. ... " />
+                <marker date="1520605781968" expanded="true" signature="8175:8634" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="8418:8596" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="8644:8824" ph="/// Gets all the surface objects associated with the Spatial Mapping mesh. ... " />
+                <marker date="1520605781968" expanded="true" signature="8914:8976" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="8986:9171" ph="/// Gets all Mesh Filter objects associated with the Spatial Mapping mesh. ... " />
+                <marker date="1520605781968" expanded="true" signature="9220:9284" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="9294:9413" ph="/// Sets the Cast Shadows property for each Spatial Mapping mesh renderer. ... " />
+                <marker date="1520605781968" expanded="true" signature="9472:10081" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="9603:10071" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="9661:10057" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="9719:9866" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="9891:10039" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="10091:10355" ph="/// Updates the rendering state on the currently enabled surfaces. ... " />
+                <marker date="1520605781968" expanded="true" signature="10405:10985" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="10447:10975" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="10605:10961" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="10673:10943" ph="{...}" />
+                <marker date="1520605781968" expanded="true" signature="10790:10921" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/DrawWithGaze.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HoloToolkit/SpatialMapping/Scripts/SpatialMappingManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5069D0F-5255-404A-B894-92335D2E1F59/79/bec0cdbf/Quaternion.cs" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/HoloToolkit/SpatialMapping/Scripts/SpatialMappingManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/DrawWithGaze.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DrawWithGaze (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DrawWithGaze (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DrawWithGaze (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DrawWithGaze (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HoloToolkit" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DrawWithGaze (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HoloToolkit" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SpatialMapping" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DrawWithGaze (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HoloToolkit" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SpatialMapping" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" pid="11588" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b5ae864-8883-453f-8fde-419c2cf91627" name="Default" comment="" />
+      <created>1520605251426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520605251426</updated>
+      <workItem from="1520605255688" duration="1059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1059000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/HoloToolkit/SpatialMapping/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/HoloToolkit/SpatialMapping/Scripts/SpatialMappingManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+          <folding>
+            <marker date="1520605781968" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+            <marker date="1520605781968" expanded="false" signature="160:258" ph="..." />
+            <marker date="1520605781968" expanded="true" signature="302:10993" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="309:670" ph="/// The SpatialMappingManager class allows applications to use a SurfaceObserver or a stored  ... " />
+            <marker date="1520605781968" expanded="true" signature="807:10991" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="1539:1654" ph="/// Used for gathering real-time Spatial Mapping data on the HoloLens. ... " />
+            <marker date="1520605781968" expanded="true" signature="1720:1806" ph="/// Time when StartObserver() was called. ... " />
+            <marker date="1520605781968" expanded="true" signature="1869:1944" ph="/// SurfaceMappingObserver GET ... " />
+            <marker date="1520605781968" expanded="true" signature="2044:2136" ph="/// The current source of spatial mapping data. ... " />
+            <marker date="1520605781968" expanded="true" signature="2179:2786" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="2249:2776" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="2300:2762" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="2592:2744" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="2841:2932" ph="/// Occurs when &lt;see cref=&quot;Source&quot; /&gt; changes. ... " />
+            <marker date="1520605781968" expanded="true" signature="3128:3294" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="3359:3475" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="3404:3465" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="3485:3566" ph="/// Returns the layer as a bit mask. ... " />
+            <marker date="1520605781968" expanded="true" signature="3595:3663" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="3673:3766" ph="/// The material to use when rendering surfaces. ... " />
+            <marker date="1520605781968" expanded="true" signature="3806:4138" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="3832:3900" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="3916:4128" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="3976:4114" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="4148:4267" ph="/// Specifies whether or not the SpatialMapping meshes are to be rendered. ... " />
+            <marker date="1520605781968" expanded="true" signature="4304:4637" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="4330:4399" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="4415:4627" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="4476:4613" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="4647:4764" ph="/// Specifies whether or not the SpatialMapping meshes can cast shadows. ... " />
+            <marker date="1520605781968" expanded="true" signature="4796:5110" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="4822:4886" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="4902:5100" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="4958:5086" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="5120:5331" ph="/// Sets the source of surface information. ... " />
+            <marker date="1520605781968" expanded="true" signature="5411:5488" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="5498:5676" ph="/// Sets the material used by all Spatial Mapping meshes. ... " />
+            <marker date="1520605781968" expanded="true" signature="5744:6163" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="5838:6153" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="5935:6139" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="6001:6121" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="6173:6351" ph="/// Checks to see if the SurfaceObserver is currently running. ... " />
+            <marker date="1520605781968" expanded="true" signature="6391:6487" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="6497:6618" ph="/// Instructs the SurfaceObserver to start updating the SpatialMapping mesh. ... " />
+            <marker date="1520605781968" expanded="true" signature="6654:7102" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="6967:7092" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="7112:7232" ph="/// Instructs the SurfaceObserver to stop updating the SpatialMapping mesh. ... " />
+            <marker date="1520605781968" expanded="true" signature="7267:7666" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="7579:7656" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="7676:7786" ph="/// Instructs the SurfaceObserver to stop and cleanup all meshes. ... " />
+            <marker date="1520605781968" expanded="true" signature="7824:7891" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="7901:8137" ph="/// Gets all meshes that are associated with the SpatialMapping mesh. ... " />
+            <marker date="1520605781968" expanded="true" signature="8175:8634" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="8418:8596" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="8644:8824" ph="/// Gets all the surface objects associated with the Spatial Mapping mesh. ... " />
+            <marker date="1520605781968" expanded="true" signature="8914:8976" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="8986:9171" ph="/// Gets all Mesh Filter objects associated with the Spatial Mapping mesh. ... " />
+            <marker date="1520605781968" expanded="true" signature="9220:9284" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="9294:9413" ph="/// Sets the Cast Shadows property for each Spatial Mapping mesh renderer. ... " />
+            <marker date="1520605781968" expanded="true" signature="9472:10081" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="9603:10071" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="9661:10057" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="9719:9866" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="9891:10039" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="10091:10355" ph="/// Updates the rendering state on the currently enabled surfaces. ... " />
+            <marker date="1520605781968" expanded="true" signature="10405:10985" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="10447:10975" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="10605:10961" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="10673:10943" ph="{...}" />
+            <marker date="1520605781968" expanded="true" signature="10790:10921" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5069D0F-5255-404A-B894-92335D2E1F59/79/bec0cdbf/Quaternion.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DrawWithGaze.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="89" column="79" lean-forward="false" selection-start-line="89" selection-start-column="79" selection-end-line="89" selection-end-column="79" />
+          <folding>
+            <marker date="1520606339726" expanded="false" signature="6:247" ph="..." />
+            <marker date="1520606339726" expanded="true" signature="305:3532" ph="{...}" />
+            <marker date="1520606339726" expanded="true" signature="692:991" ph="{...}" />
+            <marker date="1520606339726" expanded="true" signature="1044:1083" ph="{...}" />
+            <marker date="1520606339726" expanded="true" signature="1203:1465" ph="{...}" />
+            <marker date="1520606339726" expanded="true" signature="1314:1368" ph="{...}" />
+            <marker date="1520606339726" expanded="true" signature="1577:1969" ph="{...}" />
+            <marker date="1520606339726" expanded="true" signature="1635:1899" ph="{...}" />
+            <marker date="1520606339726" expanded="true" signature="1791:1889" ph="{...}" />
+            <marker date="1520606339726" expanded="true" signature="1975:2406" ph="/// Get placement position either from GazeManager hit or in front of the user as backup ... " />
+            <marker date="1520606339726" expanded="true" signature="2530:2734" ph="{...}" />
+            <marker date="1520606339726" expanded="true" signature="2588:2661" ph="{...}" />
+            <marker date="1520606339726" expanded="true" signature="2788:2921" ph="{...}" />
+            <marker date="1520606339726" expanded="true" signature="2976:3530" ph="{...}" />
+            <marker date="1520606339726" expanded="true" signature="3000:3523" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
