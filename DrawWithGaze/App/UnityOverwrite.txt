@@ -7,7 +7,7 @@
 # Default behavior is to never overwrite files
 DrawWithGaze.sln: modified
 DrawWithGaze\App.cs: EF07C94C46E8703BCAE6619F846ACC7B
-DrawWithGaze\DrawWithGaze.csproj: 1A0CA4B6653A442842297F8F4AF3C20B
+DrawWithGaze\DrawWithGaze.csproj: CB794A80C2C78E3A24ED605FEE12F8AA
 DrawWithGaze\DrawWithGaze.csproj.user: modified
 DrawWithGaze\Package.appxmanifest: D1757B88AD2875741AF7CE33B6A4F363
 DrawWithGaze\project.json: 1D02BC64BAC0D041019673A1C4C51737

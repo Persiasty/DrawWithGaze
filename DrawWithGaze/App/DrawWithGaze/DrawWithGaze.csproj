@@ -356,7 +356,7 @@
 
   <ItemGroup>
     <ProjectReference Include="C:\Users\aoszo\Documents\GitHub\DrawWithGaze\DrawWithGaze\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{81bf20ce-7d0d-4354-952d-ff0527b55b35}</Project>
+      <Project>{828aaa9a-ebe7-4d48-ad8c-80000defc835}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>

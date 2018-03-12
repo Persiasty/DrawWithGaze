@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{81bf20ce-7d0d-4354-952d-ff0527b55b35}</ProjectGuid>
+    <ProjectGuid>{828aaa9a-ebe7-4d48-ad8c-80000defc835}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -1802,6 +1802,12 @@
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\HoloToolkit\UX\Scripts\UsabilityUtilities.cs">
       <Link>HoloToolkit\UX\Scripts\UsabilityUtilities.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\DrawWithClick.cs">
+      <Link>Scripts\DrawWithClick.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\TapToCreateLine.cs">
+      <Link>TapToCreateLine.cs</Link>
     </Compile>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
